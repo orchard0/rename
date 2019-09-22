@@ -9,7 +9,7 @@ If you run into corrupt NTFS / FAT32 hard disks because you copy files over from
 \\ (backslash)
 | (vertical bar or pipe)
 ? (question mark)
-* (asterisk)
+\* (asterisk)
 
 
 You can change some settings in the script, they are found at the top of the file and an explanation for each setting is given.
